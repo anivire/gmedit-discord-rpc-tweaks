@@ -1,15 +1,9 @@
-# GMEdit-Discord-RPC
-A plugin for GMEdit which display your status in discord
-
 Changes:
 1. New `Idling` state
 2. Merged idle and project timer
 3. Changed details title naming due to idle state
 
-***INSTALLING***
-1. Download it
-2. Place the plugin to %appdata%/AceGM/GMEdit/plugins/ on Windows, /Users/<username>/Library/Application Support/AceGM/GMEdit/plugins on macOS
-3. Turn on `Game activity` in Discord 
-
-***EXAMPLE***  
-![](demo.png)
+TODO: 
+- [ ] Split timers for idling and code states
+- [ ] Add options for project/file hide
+- [ ] Add option for merged timer/resetting(original) timer
