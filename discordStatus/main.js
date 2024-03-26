@@ -52,7 +52,7 @@
             });
 
             GMEdit.on("fileOpen", function(e) {
-                activity.state = e.file.name;
+                activity.state = e.file.name != "WelcomePage" ? e.file.name : "Idling";
                 rpc.setActivity(activity);
             });
 
