@@ -2,7 +2,9 @@
 A plugin for GMEdit which display your status in discord
 
 Changes:
-1. Merged idle and project timer
+1. New `Idling` state
+2. Merged idle and project timer
+3. Changed details title naming due to idle state
 
 ***INSTALLING***
 1. Download it
