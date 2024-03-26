@@ -1,6 +1,9 @@
 # GMEdit-Discord-RPC
 A plugin for GMEdit which display your status in discord
 
+Changes:
+1. Merged idle and project timer
+
 ***INSTALLING***
 1. Download it
 2. Place the plugin to %appdata%/AceGM/GMEdit/plugins/ on Windows, /Users/<username>/Library/Application Support/AceGM/GMEdit/plugins on macOS
